@@ -15,4 +15,3 @@ const CONFIG = {
     messDesc: 'mình cần 1 kèo đi ăn',
     btnAccept: '',
     messLink: 'https://www.messenger.com/t/4053532394683940/' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
