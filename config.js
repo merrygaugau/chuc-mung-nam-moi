@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'chao lpa',
+    introDesc: `Các cụ đã nói rồi:
+    Chọn xoài đừng để xoài chua
+    Chọn bạn đừng để xoài chua chọn bạn`,
+    btnIntro: '',
+    title: 'm có muốn nghe cmsn kh',
+    desc: 'chọn khôn nha ',
+    btnYes: 'có',
+    btnNo: 'kó',
+    question:'Trên thế giới hơn 7 tỉ người mà sao t lại gặp m???',
+    btnReply: '<3333',
+    reply: '',
+    mess: 'chúc lpa xinh tươi tuổi mới luôn xink điẹp, bớt trtr, nhiều tiền đặt sốp bi, có mối tình đầu chất cả lượng. chúc lpa tất cả nhoa moa moa',
+    messDesc: 'mình cần 1 kèo đi ăn',
+    btnAccept: '',
+    messLink: 'https://www.messenger.com/t/4053532394683940/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
